@@ -1,5 +1,4 @@
 set(FILTERS_SRC
-  src/filter
   src/range_filter
   src/temporal_median_filter
 )
