@@ -1,2 +1,2 @@
 add_executable(testFilters test_filters)
-target_link_libraries(testFilters LINK_PUBLIC LidarFilters)
+target_link_libraries(testFilters LINK_PUBLIC ToyLidarFilters)
