@@ -1,5 +1,5 @@
-mkdir build
-cd build
-cmake ..
-make
-./tests/testFilters
+mkdir build </br>
+cd build </br>
+cmake .. </br>
+make </br>
+./tests/testFilters </br>
